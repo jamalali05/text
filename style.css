@@ -1,0 +1,24 @@
+body {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 1rem;
+  background-color: aqua;
+}
+
+#text {
+  width: 100%;
+  height: 50vh;
+color:black;
+}
+#play-button,
+#pause-button,
+#stop-button {
+  background-color: #4caf50;
+  color: white;
+  
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 0vmax;
+  
+
+}
